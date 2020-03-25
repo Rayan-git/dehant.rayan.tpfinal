@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TPFinal</string>
+    <string name="titre_detail">Détail du pays</string>
+    <string name="titre">Encyclopédie du monde</string>
+</resources>
